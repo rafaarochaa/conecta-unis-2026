@@ -1,0 +1,10 @@
+{
+  "description": "Connects students with job opportunities through a user-friendly interface, enabling profile management, direct messaging with recruiters, and easy access to job listings.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
